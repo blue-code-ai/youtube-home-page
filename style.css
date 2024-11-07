@@ -97,7 +97,7 @@ body{
 }
 .video-card {
     width: 30%;
-    height: calc((100vh - 60px) / 2 - 15px);
+    height: calc((100vh - 60px) / 2 - 50px);
     overflow: hidden;
     justify-content: center;
 }
