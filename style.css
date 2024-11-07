@@ -6,6 +6,8 @@ body{
     color: hsl(0, 0%, 100%);
     font-family: Arial, sans-serif;
     flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+
 }
 
 #homepage-link{
